@@ -1,0 +1,6 @@
+@RouteManagementAPI_HostAddress = http://localhost:5044
+
+GET {{RouteManagementAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
