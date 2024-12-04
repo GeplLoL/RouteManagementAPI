@@ -2,8 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using RouteManagementAPI.Models;
 
-// Создание псевдонима для вашего класса Route
-using BusRoute = RouteManagementAPI.Models.Route;
+using MyRoute = RouteManagementAPI.Models.Route;
 
 namespace RouteManagementAPI.Data
 {
@@ -11,6 +10,6 @@ namespace RouteManagementAPI.Data
     {
         public RouteContext(DbContextOptions<RouteContext> options) : base(options) { }
 
-        public DbSet<BusRoute> Routes { get; set; }
+        public DbSet<MyRoute> Routes { get; set; }
     }
 }
