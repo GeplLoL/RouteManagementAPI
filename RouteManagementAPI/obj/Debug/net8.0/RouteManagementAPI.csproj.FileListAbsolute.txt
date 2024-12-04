@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\RouteManagementAPI\RouteManagementAPI\obj\Debug\net8.0\RouteManagementAPI.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\RouteManagementAPI\RouteManagementAPI\obj\Debug\net8.0\RouteManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\RouteManagementAPI\RouteManagementAPI\obj\Debug\net8.0\RouteManagementAPI.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\RouteManagementAPI\RouteManagementAPI\obj\Debug\net8.0\RouteManagementAPI.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\RouteManagementAPI\RouteManagementAPI\obj\Debug\net8.0\RouteManagementAPI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\RouteManagementAPI\RouteManagementAPI\obj\Debug\net8.0\RouteManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\source\repos\RouteManagementAPI\RouteManagementAPI\obj\Debug\net8.0\RouteManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\source\repos\RouteManagementAPI\RouteManagementAPI\obj\Debug\net8.0\RouteManagementAPI.sourcelink.json
